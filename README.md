@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Preet Rank!
 
-<!--
-**preettrank53/preettrank53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **2nd Year IT Engineering Student**  
+🚀 Passionate about **Data Structures & Algorithms**, **LeetCode**, and **Digital Marketing**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages**: Java, C++, Python
+- **Tools**: Git, GitHub, VS Code
+
+---
+
+## 📬 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/preet-rank-8999a5284/)
+- [Email](preetrank53@gmail.com)
+
+---
+
+Thanks for visiting my profile! 😄
